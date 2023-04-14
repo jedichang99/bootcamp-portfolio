@@ -1,7 +1,5 @@
 # bootcamp-portfolio
 
-# Horiseon
-
 ## Description
 
 The purpose of this project was to set the foundation for my personal portfolio. I used HTML and CSS to create the front wng for this project. It was a lot of fun seeingthis projext start from nothing and transform to something.
